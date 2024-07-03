@@ -1,6 +1,6 @@
 {
   "name": "@felipeclopes/capacitor-healthkit",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "Capacitor plugin to read data from and write data to Apple Health",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -9,7 +9,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "PerfoodCapacitorHealthkit.podspec"
+    "FelipeclopesCapacitorHealthkit.podspec"
   ],
   "author": "Manuel Heidrich",
   "license": "MIT",
